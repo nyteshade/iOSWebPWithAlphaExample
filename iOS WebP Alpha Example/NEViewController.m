@@ -18,7 +18,7 @@
 - (void)viewDidLoad
 {
   [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
+  // Do any additional setup after loading the view, typically from a nib.
   
   // Load the webp image for the background. Image comes from
   // http://wallpapersget.com/art-wallpaper-stores-water-best-ofthe-week-albums
