@@ -2,7 +2,7 @@
 //  NEViewController.m
 //  iOS WebP Alpha Example
 //
-//  Created by Gabrielle on 3/16/13.
+//  Created by Brielle Harrison on 3/16/13.
 //  Copyright (c) 2013 Nyteshade Enterprises. All rights reserved.
 //
 

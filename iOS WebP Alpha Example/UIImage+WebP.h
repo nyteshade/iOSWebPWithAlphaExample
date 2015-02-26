@@ -1,7 +1,7 @@
 //
 // UIImage+WebP.h
 //
-// Created by Gabriel Harrison <nyteshade@gmail.com>
+// Created by Brielle Harrison <nyteshade@gmail.com>
 // Much inspiration for code comes from Carson McDonald
 // his website is http://www.ioncannon.net
 //
